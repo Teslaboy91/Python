@@ -1,0 +1,12 @@
+# Test
+
+def Test(word):
+        if word == str:
+            print('good')
+        else:
+            print('not good')
+
+test = input()
+
+print(Test(test))
+  
